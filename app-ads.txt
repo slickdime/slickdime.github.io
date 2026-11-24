@@ -1,3 +1,2 @@
 # app-ads.txt for apps by SLICK DIME LLC
-# Add the line AdMob shows under Apps > View all apps > app-ads.txt, e.g.
-# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
+google.com, pub-5612886994671196, DIRECT, f08c47fec0942fa0
